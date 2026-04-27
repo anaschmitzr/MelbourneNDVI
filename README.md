@@ -1,7 +1,5 @@
-# Main Title (H1)
-MELBOURNE NDVI
-## Section Title (H2)
-Use `##` for section headings.
+# MELBOURNE NDVI 
+## NDVI
 ### Subsection Title (H3)
 Use `###` for smaller headings.
 ---
